@@ -16,7 +16,12 @@ function App() {
   }, [])
 
   return (
-    <div>Purple</div>
+    <>
+      <div>
+        <p>Welcome to <span>Topify</span>!</p>
+        <p>Unleash the power of precise topic classification.</p>
+      </div>
+    </>
   )
 }
 
